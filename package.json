@@ -1,0 +1,15 @@
+{
+  "name": "spa-api",
+  "version": "1.0.0",
+  "description": "JSON Server API for SPA users",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
